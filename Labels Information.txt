@@ -1,0 +1,24 @@
+0       Apxs
+1       Apxs Cal Target
+2       Chemcam Cal Target
+3       Chemin Inlet Open
+4       Drill
+5       Drill Holes
+6       Drt Front
+7       Drt Side
+8       Ground
+9       Horizon
+10      Inlet
+11      Mahli
+12      Mahli Cal Target
+13      Mastcam
+14      Mastcam Cal Target
+15      Observation Tray
+16      Portion Box
+17      Portion Tube
+18      Portion Tube Opening
+19      Rems Uv Sensor
+20      Rover Rear Deck
+21      Scoop
+22      Turret
+23      Wheel
